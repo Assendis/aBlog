@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\css\\ckeditor",
+    "\\assets\\css\\ckeditor\\samples",
+    "\\assets\\css\\ckeditor\\samples\\img",
+    "\\assets\\img",
+    "\\assets\\img\\social_icons",
+    "\\templates",
+    "\\templates\\temp"
+  ],
+  "SelectedNode": "\\composer.json",
+  "PreviewInSolutionExplorer": false
+}
